@@ -4,7 +4,6 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     OmniStyle \
     MusicFX \
-    MatLog \
     OmniChange \
     OmniRecord
 
