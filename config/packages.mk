@@ -1,14 +1,11 @@
 # Additional apps
 PRODUCT_PACKAGES += \
-    MonthCalendarWidget \
     Chromium \
     OmniJaws \
     OmniStyle \
-    OmniClockOSS \
     MusicFX \
     MatLog \
     OmniChange \
-    Turbo \
     OmniRecord
 
 # Additional tools
