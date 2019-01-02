@@ -1,7 +1,7 @@
 # Versioning of the ROM
 
 ifndef ROM_BUILDTYPE
-    ROM_BUILDTYPE := HOMEMADE
+    ROM_BUILDTYPE := mendel
 endif
 
 TARGET_PRODUCT_SHORT := $(TARGET_PRODUCT)
